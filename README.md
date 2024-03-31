@@ -95,7 +95,7 @@ python3 bot.py
 </h3>
 
 - <b>[stellar_labs](https://t.me/stellar_labs)  ➻  [ʙᴀsᴇ ᴄᴏᴅᴇ](https://t.me/stellar_labs) </b>
-- <b>[Revlotz](https://github.com/atomicitic)  ➻  [ᴇᴠᴇʀʏᴛʜɪɴɢ](https://t.me/StellarLabsSupport) </b>
+- <b>[Revlotz](https://t.me/revlotz)  ➻  [ᴇᴠᴇʀʏᴛʜɪɴɢ](https://t.me/StellarLabsSupport) </b>
  
 <b>ᴀɴᴅ ᴀʟʟ [ᴛʜᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs](https://telegram.me/stellar_labs) ᴡʜᴏ ʜᴇʟᴩᴇᴅ ɪɴ ᴍᴀᴋɪɴɢ file store ʙᴏᴛ ᴜsᴇꜰᴜʟ & ᴩᴏᴡᴇʀꜰᴜʟ 🖤 </b>
 
