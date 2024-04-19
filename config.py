@@ -13,26 +13,26 @@ from logging.handlers import RotatingFileHandler
 TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "")
 
 #Your API ID from my.telegram.org
-APP_ID = int(os.environ.get("APP_ID", "23400324"))
+APP_ID = int(os.environ.get("APP_ID", ""))
 
 #Your API Hash from my.telegram.org
-API_HASH = os.environ.get("API_HASH", "6dd43d5bba765cfe72191bf60e65926f")
+API_HASH = os.environ.get("API_HASH", "")
 
 #Your db channel Id
-CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002121014023"))
+CHANNEL_ID = int(os.environ.get("CHANNEL_ID", ""))
 
 # NAMA OWNER
-OWNER = os.environ.get("OWNER", "AnimeHolic_nerd")
+OWNER = os.environ.get("OWNER", "Jk_13G")
 
 #OWNER ID
-OWNER_ID = int(os.environ.get("OWNER_ID", "6053231890"))
+OWNER_ID = int(os.environ.get("OWNER_ID", "1436817644"))
 
 #Port
 PORT = os.environ.get("PORT", "8030")
 
 #Database
 DB_URI = os.environ.get("DATABASE_URL", "mongodb+srv://Merlebotclone:r90PuKeTwJqZe5Vs@cluster7698.ns2pc45.mongodb.net/?retryWrites=true&w=majority&appName=Cluster7698")
-DB_NAME = os.environ.get("DATABASE_NAME", "RagnarDiscussion")
+DB_NAME = os.environ.get("DATABASE_NAME", "")
 
 #force sub channel id, if you want enable force sub
 FORCE_SUB_CHANNEL = int(os.environ.get("FORCE_SUB_CHANNEL", "-1001962924476"))
