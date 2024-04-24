@@ -22,16 +22,16 @@ API_HASH = os.environ.get("API_HASH", "")
 CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002119213016"))
 
 # NAMA OWNER
-OWNER = os.environ.get("OWNER", "Jk_13G")
+OWNER = os.environ.get("OWNER", "")
 
 #OWNER ID
-OWNER_ID = int(os.environ.get("OWNER_ID", "1436817644"))
+OWNER_ID = int(os.environ.get("OWNER_ID", ""))
 
 #Port
 PORT = os.environ.get("PORT", "8030")
 
 #Database
-DB_URI = os.environ.get("DATABASE_URL", "mongodb+srv://Merlebotclone:r90PuKeTwJqZe5Vs@cluster7698.ns2pc45.mongodb.net/?retryWrites=true&w=majority&appName=Cluster7698")
+DB_URI = os.environ.get("DATABASE_URL", "mongodb+srv://:@cluster7698.ns2pc45.mongodb.net/?retryWrites=true&w=majority&appName=Cluster7698")
 DB_NAME = os.environ.get("DATABASE_NAME", "")
 
 #force sub channel id, if you want enable force sub
